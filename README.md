@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Rosvin John Rosales, from the Philippines
 - 👀 I’m interested in web development and 3d modeling
-- 🌱 I’m learning laravel, websockets, advanced sql
-- 📫 You can reach me at my email - rosvinrosales@gmail.com
+- 📫 You can reach me at my email - rosvinrosales@gmail.com,
                             facebook - Rosvin John Rosales
 
 <!---
